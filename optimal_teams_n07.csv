@@ -1,0 +1,16 @@
+,0,1,2,3,4,5,6
+0,Fight,Flying,Poison,Ground,Ghost,Grass,Ice
+1,Fight,Flying,Poison,Ground,Ghost,Electric,Ice
+2,Fight,Flying,Poison,Ground,Grass,Ice,Dragon
+3,Fight,Flying,Poison,Ground,Grass,Ice,Dark
+4,Fight,Flying,Poison,Ground,Electric,Ice,Dragon
+5,Fight,Flying,Poison,Ground,Electric,Ice,Dark
+6,Fight,Flying,Ground,Ghost,Steel,Grass,Ice
+7,Fight,Flying,Ground,Ghost,Steel,Electric,Ice
+8,Fight,Flying,Ground,Steel,Grass,Ice,Dragon
+9,Fight,Flying,Ground,Steel,Grass,Ice,Dark
+10,Fight,Flying,Ground,Steel,Electric,Ice,Dragon
+11,Fight,Flying,Ground,Steel,Electric,Ice,Dark
+12,Fight,Poison,Ground,Rock,Ghost,Grass,Fairy
+13,Fight,Poison,Ground,Rock,Grass,Dragon,Fairy
+14,Fight,Poison,Ground,Rock,Grass,Dark,Fairy
