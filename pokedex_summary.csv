@@ -1,0 +1,401 @@
+,id,n_type,name,type
+0,1.0,1.0,Chimpep,['Grass']
+1,2.0,1.0,Chimstix,['Grass']
+2,3.0,1.0,Gortrom,['Grass']
+3,4.0,1.0,Hopplo,['Fire']
+4,5.0,1.0,Kickerlo,['Fire']
+5,6.0,1.0,Liberlo,['Fire']
+6,7.0,1.0,Memmeon,['Water']
+7,8.0,1.0,Phlegleon,['Water']
+8,9.0,1.0,Intelleon,['Water']
+9,10.0,1.0,Sensect,['Bug']
+10,11.0,2.0,Keradar,"['Bug', 'Psychic']"
+11,12.0,2.0,Maritellit,"['Bug', 'Psychic']"
+12,13.0,1.0,Raupy,['Bug']
+13,14.0,1.0,Safcon,['Bug']
+14,15.0,2.0,Smettbo,"['Bug', 'Flying']"
+15,16.0,1.0,Mabula,['Bug']
+16,17.0,2.0,Akkup,"['Bug', 'Electric']"
+17,18.0,2.0,Donarion,"['Bug', 'Electric']"
+18,19.0,2.0,Hoothoot,"['Normal', 'Flying']"
+19,20.0,2.0,Noctuh,"['Normal', 'Flying']"
+20,21.0,1.0,Meikro,['Flying']
+21,22.0,1.0,Kranoviz,['Flying']
+22,23.0,2.0,Krarmor,"['Flying', 'Steel']"
+23,24.0,1.0,Raffel,['Normal']
+24,25.0,1.0,Schlaraffel,['Normal']
+25,26.0,2.0,Dusselgurr,"['Normal', 'Flying']"
+26,27.0,2.0,Navitaub,"['Normal', 'Flying']"
+27,28.0,2.0,Fasasnob,"['Normal', 'Flying']"
+28,29.0,1.0,Kleptifux,['Dark']
+29,30.0,1.0,Gaunux,['Dark']
+30,31.0,3.0,Zigzachs(Galar-Form),"['Normal', 'Dark', 'Normal']"
+31,32.0,3.0,Geradaks(Galar-Form),"['Normal', 'Dark', 'Normal']"
+32,33.0,2.0,Barrikadax,"['Dark', 'Normal']"
+33,34.0,1.0,Wolly,['Normal']
+34,35.0,1.0,Zwollock,['Normal']
+35,36.0,2.0,Loturzel,"['Water', 'Grass']"
+36,37.0,2.0,Lombrero,"['Water', 'Grass']"
+37,38.0,2.0,Kappalores,"['Water', 'Grass']"
+38,39.0,1.0,Samurzel,['Grass']
+39,40.0,2.0,Blanas,"['Grass', 'Dark']"
+40,41.0,2.0,Tengulist,"['Grass', 'Dark']"
+41,42.0,1.0,Kamehaps,['Water']
+42,43.0,2.0,Kamalm,"['Water', 'Rock']"
+43,44.0,1.0,Felilou,['Dark']
+44,45.0,1.0,Kleoparda,['Dark']
+45,46.0,1.0,Voldi,['Electric']
+46,47.0,1.0,Bellektro,['Electric']
+47,48.0,1.0,Scoppel,['Normal']
+48,49.0,2.0,Grebbit,"['Normal', 'Ground']"
+49,50.0,1.0,Picochilla,['Normal']
+50,51.0,1.0,Chillabell,['Normal']
+51,52.0,1.0,Frubberl,['Grass']
+52,53.0,1.0,Frubaila,['Grass']
+53,54.0,1.0,Fruyal,['Grass']
+54,55.0,2.0,Myrapla,"['Grass', 'Poison']"
+55,56.0,2.0,Duflor,"['Grass', 'Poison']"
+56,57.0,2.0,Giflor,"['Grass', 'Poison']"
+57,58.0,1.0,Blubella,['Grass']
+58,59.0,2.0,Knospi,"['Grass', 'Poison']"
+59,60.0,2.0,Roselia,"['Grass', 'Poison']"
+60,61.0,2.0,Roserade,"['Grass', 'Poison']"
+61,62.0,2.0,Wingull,"['Water', 'Flying']"
+62,63.0,2.0,Pelipper,"['Water', 'Flying']"
+63,64.0,2.0,Wattzapf,"['Bug', 'Electric']"
+64,65.0,2.0,Voltula,"['Bug', 'Electric']"
+65,66.0,1.0,Frizelbliz,['Electric']
+66,67.0,1.0,Voltenso,['Electric']
+67,68.0,1.0,Vulpix,['Fire']
+68,69.0,1.0,Vulnona,['Fire']
+69,70.0,1.0,Fukano,['Fire']
+70,71.0,1.0,Arkani,['Fire']
+71,72.0,1.0,Gelatini,['Ice']
+72,73.0,1.0,Gelatroppo,['Ice']
+73,74.0,1.0,Gelatwino,['Ice']
+74,75.0,2.0,Quiekel,"['Ice', 'Ground']"
+75,76.0,2.0,Keifel,"['Ice', 'Ground']"
+76,77.0,2.0,Mamutel,"['Ice', 'Ground']"
+77,78.0,2.0,Botogel,"['Ice', 'Flying']"
+78,79.0,1.0,Schneppke,['Ice']
+79,80.0,1.0,Firnontor,['Ice']
+80,81.0,2.0,Frosdedje,"['Ice', 'Ghost']"
+81,82.0,2.0,Puppance,"['Ground', 'Psychic']"
+82,83.0,2.0,Lepumentas,"['Ground', 'Psychic']"
+83,84.0,1.0,Pampuli,['Ground']
+84,85.0,1.0,Pampross,['Ground']
+85,86.0,2.0,Lithomith,"['Bug', 'Rock']"
+86,87.0,2.0,Castellith,"['Bug', 'Rock']"
+87,88.0,2.0,Golbit,"['Ground', 'Ghost']"
+88,89.0,2.0,Golgantes,"['Ground', 'Ghost']"
+89,90.0,1.0,Somniam,['Psychic']
+90,91.0,1.0,Somnivora,['Psychic']
+91,92.0,2.0,Natu,"['Psychic', 'Flying']"
+92,93.0,2.0,Xatu,"['Psychic', 'Flying']"
+93,94.0,2.0,Velursi,"['Normal', 'Fight']"
+94,95.0,2.0,Kosturso,"['Normal', 'Fight']"
+95,96.0,2.0,Shnebedeck,"['Grass', 'Ice']"
+96,97.0,2.0,Rexblisar,"['Grass', 'Ice']"
+97,98.0,1.0,Krabby,['Water']
+98,99.0,1.0,Kingler,['Water']
+99,100.0,2.0,Felino,"['Water', 'Ground']"
+100,101.0,2.0,Morlord,"['Water', 'Ground']"
+101,102.0,1.0,Krebscorps,['Water']
+102,103.0,2.0,Krebutack,"['Water', 'Dark']"
+103,104.0,2.0,Nincada,"['Bug', 'Ground']"
+104,105.0,2.0,Ninjask,"['Bug', 'Flying']"
+105,106.0,2.0,Ninjatom,"['Bug', 'Ghost']"
+106,107.0,1.0,Rabauz,['Fight']
+107,108.0,1.0,Kicklee,['Fight']
+108,109.0,1.0,Nockchan,['Fight']
+109,110.0,1.0,Kapoera,['Fight']
+110,111.0,1.0,Pam-Pam,['Fight']
+111,112.0,2.0,Pandagro,"['Fight', 'Dark']"
+112,113.0,1.0,Klikk,['Steel']
+113,114.0,1.0,Kliklak,['Steel']
+114,115.0,1.0,Klikdiklak,['Steel']
+115,116.0,2.0,Wadribie,"['Bug', 'Flying']"
+116,117.0,2.0,Honweisel,"['Bug', 'Flying']"
+117,118.0,2.0,Bronzel,"['Steel', 'Psychic']"
+118,119.0,2.0,Bronzong,"['Steel', 'Psychic']"
+119,120.0,2.0,Trasla,"['Psychic', 'Fairy']"
+120,121.0,2.0,Kirlia,"['Psychic', 'Fairy']"
+121,122.0,2.0,Guardevoir,"['Psychic', 'Fairy']"
+122,123.0,2.0,Galagladi,"['Psychic', 'Fight']"
+123,124.0,2.0,Driftlon,"['Ghost', 'Flying']"
+124,125.0,2.0,Drifzepeli,"['Ghost', 'Flying']"
+125,126.0,1.0,Cottini,['Grass']
+126,127.0,1.0,Cottomi,['Grass']
+127,128.0,1.0,Kikugi,['Grass']
+128,129.0,1.0,Kinoso,['Grass']
+129,130.0,2.0,Skunkapuh,"['Poison', 'Dark']"
+130,131.0,2.0,Skuntank,"['Poison', 'Dark']"
+131,132.0,1.0,Schallquap,['Water']
+132,133.0,2.0,Mebrana,"['Water', 'Ground']"
+133,134.0,2.0,Branawarz,"['Water', 'Ground']"
+134,135.0,1.0,Zwirrlicht,['Ghost']
+135,136.0,1.0,Zwirrklop,['Ghost']
+136,137.0,1.0,Zwirrfinst,['Ghost']
+137,138.0,1.0,Machollo,['Fight']
+138,139.0,1.0,Maschock,['Fight']
+139,140.0,1.0,Machomei,['Fight']
+140,141.0,2.0,Nebulak,"['Ghost', 'Poison']"
+141,142.0,2.0,Alpollo,"['Ghost', 'Poison']"
+142,143.0,2.0,Gengar,"['Ghost', 'Poison']"
+143,144.0,1.0,Karpador,['Water']
+144,145.0,2.0,Garados,"['Water', 'Flying']"
+145,146.0,1.0,Goldini,['Water']
+146,147.0,1.0,Golking,['Water']
+147,148.0,1.0,Remoraid,['Water']
+148,149.0,1.0,Octillery,['Water']
+149,150.0,1.0,Muschas,['Water']
+150,151.0,2.0,Austos,"['Water', 'Ice']"
+151,152.0,1.0,Barschwa,['Water']
+152,153.0,1.0,Milotic,['Water']
+153,154.0,1.0,Barschuft,['Water']
+154,155.0,1.0,Lusardin,['Water']
+155,156.0,1.0,Gufa,['Water']
+156,157.0,1.0,Unratütox,['Poison']
+157,158.0,1.0,Deponitox,['Poison']
+158,159.0,2.0,Thermopod,"['Fire', 'Bug']"
+159,160.0,2.0,Infernopod,"['Fire', 'Bug']"
+160,161.0,1.0,Klonkett,['Rock']
+161,162.0,2.0,Wagong,"['Rock', 'Fire']"
+162,163.0,2.0,Montecarbo,"['Rock', 'Fire']"
+163,164.0,1.0,Digda,['Ground']
+164,165.0,1.0,Digdri,['Ground']
+165,166.0,1.0,Rotomurf,['Ground']
+166,167.0,2.0,Stalobor,"['Ground', 'Steel']"
+167,168.0,1.0,Kiesling,['Rock']
+168,169.0,1.0,Sedimantur,['Rock']
+169,170.0,1.0,Brockoloss,['Rock']
+170,171.0,1.0,Praktibalk,['Fight']
+171,172.0,1.0,Strepoli,['Fight']
+172,173.0,1.0,Meistagrif,['Fight']
+173,174.0,2.0,Fleknoil,"['Psychic', 'Flying']"
+174,175.0,2.0,Fletiamo,"['Psychic', 'Flying']"
+175,176.0,2.0,eF-eM,"['Flying', 'Dragon']"
+176,177.0,2.0,UHaFnir,"['Flying', 'Dragon']"
+177,178.0,2.0,Onix,"['Rock', 'Ground']"
+178,179.0,2.0,Stahlos,"['Steel', 'Ground']"
+179,180.0,1.0,Pikuda,['Water']
+180,181.0,1.0,Barrakiefa,['Water']
+181,182.0,2.0,Mauzi(Galar-Form),"['Normal', 'Steel']"
+182,183.0,1.0,Mauzinger,['Steel']
+183,184.0,1.0,Snobilikat,['Normal']
+184,185.0,1.0,Hokumil,['Fairy']
+185,186.0,1.0,Pokusan,['Fairy']
+186,187.0,2.0,Wommel,"['Bug', 'Fairy']"
+187,188.0,2.0,Bandelby,"['Bug', 'Fairy']"
+188,189.0,2.0,Kastadur,"['Grass', 'Steel']"
+189,190.0,2.0,Tentantel,"['Grass', 'Steel']"
+190,191.0,2.0,Irrbis,"['Ghost', 'Grass']"
+191,192.0,2.0,Pumpdjinn,"['Ghost', 'Grass']"
+192,193.0,1.0,Pichu,['Electric']
+193,194.0,1.0,Pikachu,['Electric']
+194,195.0,1.0,Raichu,['Electric']
+195,196.0,1.0,Evoli,['Normal']
+196,197.0,1.0,Aquana,['Water']
+197,198.0,1.0,Blitza,['Electric']
+198,199.0,1.0,Flamara,['Fire']
+199,200.0,1.0,Psiana,['Psychic']
+200,201.0,1.0,Nachtara,['Dark']
+201,202.0,1.0,Folipurba,['Grass']
+202,203.0,1.0,Glaziola,['Ice']
+203,204.0,1.0,Feelinara,['Fairy']
+204,205.0,2.0,Knapfel,"['Grass', 'Dragon']"
+205,206.0,2.0,Drapfel,"['Grass', 'Dragon']"
+206,207.0,2.0,Schlapfel,"['Grass', 'Dragon']"
+207,208.0,1.0,Psiau,['Psychic']
+208,209.0,1.0,Psiaugon,['Psychic']
+209,210.0,1.0,Flauschling,['Fairy']
+210,211.0,1.0,Sabbaione,['Fairy']
+211,212.0,1.0,Parfi,['Fairy']
+212,213.0,1.0,Parfinesse,['Fairy']
+213,214.0,2.0,Araqua,"['Water', 'Bug']"
+214,215.0,2.0,Aranestro,"['Water', 'Bug']"
+215,216.0,1.0,Isso,['Psychic']
+216,217.0,1.0,Woingenau,['Psychic']
+217,218.0,3.0,Porenta(Galar-Form),"['Normal', 'Flying', 'Fight']"
+218,219.0,1.0,Lauchzelot,['Fight']
+219,220.0,2.0,Lampi,"['Water', 'Electric']"
+220,221.0,2.0,Lanturn,"['Water', 'Electric']"
+221,222.0,2.0,Glibunkel,"['Poison', 'Fight']"
+222,223.0,2.0,Toxiquak,"['Poison', 'Fight']"
+223,224.0,2.0,Zurrokex,"['Dark', 'Fight']"
+224,225.0,2.0,Irokex,"['Dark', 'Fight']"
+225,226.0,4.0,Flunschlik(Galar-Form),"['Ground', 'Electric', 'Ground', 'Steel']"
+226,227.0,2.0,Pottrott,"['Bug', 'Rock']"
+227,228.0,2.0,Schmerbe,"['Water', 'Ground']"
+228,229.0,2.0,Welsar,"['Water', 'Ground']"
+229,230.0,1.0,Schalellos,['Water']
+230,231.0,2.0,Gastrodon,"['Water', 'Ground']"
+231,232.0,2.0,Reißlaus,"['Bug', 'Water']"
+232,233.0,2.0,Tectass,"['Bug', 'Water']"
+233,234.0,2.0,Bithora,"['Rock', 'Water']"
+234,235.0,2.0,Thanathora,"['Rock', 'Water']"
+235,236.0,3.0,Corasonn(Galar-Form),"['Water', 'Rock', 'Ghost']"
+236,237.0,1.0,Gorgasonn,['Ghost']
+237,238.0,2.0,Bähmon,"['Dark', 'Fairy']"
+238,239.0,2.0,Pelzebub,"['Dark', 'Fairy']"
+239,240.0,2.0,Olangaar,"['Dark', 'Fairy']"
+240,241.0,1.0,Brimova,['Psychic']
+241,242.0,1.0,Brimano,['Psychic']
+242,243.0,2.0,Silembrim,"['Psychic', 'Fairy']"
+243,244.0,2.0,Molunk,"['Poison', 'Fire']"
+244,245.0,2.0,Amfira,"['Poison', 'Fire']"
+245,246.0,2.0,Gladiantri,"['Dark', 'Steel']"
+246,247.0,2.0,Caesurio,"['Dark', 'Steel']"
+247,248.0,1.0,Jiutesto,['Fight']
+248,249.0,1.0,Karadonis,['Fight']
+249,250.0,1.0,Smogon,['Poison']
+250,251.0,3.0,Smogmog(Galar-Form),"['Poison', 'Poison', 'Fairy']"
+251,252.0,1.0,Mobai,['Rock']
+252,253.0,1.0,Mogelbaum,['Rock']
+253,254.0,1.0,Pii,['Fairy']
+254,255.0,1.0,Piepi,['Fairy']
+255,256.0,1.0,Pixi,['Fairy']
+256,257.0,1.0,Togepi,['Fairy']
+257,258.0,2.0,Togetic,"['Fairy', 'Flying']"
+258,259.0,2.0,Togekiss,"['Fairy', 'Flying']"
+259,260.0,1.0,Mampfaxo,['Normal']
+260,261.0,1.0,Relaxo,['Normal']
+261,262.0,2.0,Waumboll,"['Grass', 'Fairy']"
+262,263.0,2.0,Elfun,"['Grass', 'Fairy']"
+263,264.0,2.0,Rihorn,"['Ground', 'Rock']"
+264,265.0,2.0,Rizeros,"['Ground', 'Rock']"
+265,266.0,2.0,Rihornior,"['Ground', 'Rock']"
+266,267.0,1.0,Mollimorba,['Psychic']
+267,268.0,1.0,Hypnomorba,['Psychic']
+268,269.0,1.0,Morbitesse,['Psychic']
+269,270.0,1.0,Monozyto,['Psychic']
+270,271.0,1.0,Mitodos,['Psychic']
+271,272.0,1.0,Zytomega,['Psychic']
+272,273.0,1.0,Laukaps,['Bug']
+273,274.0,2.0,Cavalanzas,"['Bug', 'Steel']"
+274,275.0,1.0,Schnuthelm,['Bug']
+275,276.0,1.0,Hydragil,['Bug']
+276,277.0,1.0,Pygraulon,['Psychic']
+277,278.0,1.0,Megalon,['Psychic']
+278,279.0,1.0,Petznief,['Ice']
+279,280.0,1.0,Siberio,['Ice']
+280,281.0,2.0,Geronimatz,"['Normal', 'Flying']"
+281,282.0,2.0,Washakwil,"['Normal', 'Flying']"
+282,283.0,2.0,Skallyk,"['Dark', 'Flying']"
+283,284.0,2.0,Grypheldis,"['Dark', 'Flying']"
+284,285.0,2.0,Pionskora,"['Poison', 'Bug']"
+285,286.0,2.0,Piondragi,"['Poison', 'Dark']"
+286,287.0,2.0,Lichtel,"['Ghost', 'Fire']"
+287,288.0,2.0,Laternecto,"['Ghost', 'Fire']"
+288,289.0,2.0,Skelabra,"['Ghost', 'Fire']"
+289,290.0,2.0,Iscalar,"['Dark', 'Psychic']"
+290,291.0,2.0,Calamanero,"['Dark', 'Psychic']"
+291,292.0,2.0,Sniebel,"['Dark', 'Ice']"
+292,293.0,2.0,Snibunna,"['Dark', 'Ice']"
+293,294.0,2.0,Zobiris,"['Dark', 'Ghost']"
+294,295.0,2.0,Flunkifer,"['Steel', 'Fairy']"
+295,296.0,1.0,Maracamba,['Grass']
+296,297.0,2.0,Symvolara,"['Psychic', 'Flying']"
+297,298.0,1.0,Riolu,['Fight']
+298,299.0,2.0,Lucario,"['Fight', 'Steel']"
+299,300.0,1.0,Qurtel,['Fire']
+300,301.0,2.0,Mimigma,"['Ghost', 'Fairy']"
+301,302.0,1.0,Kupfanti,['Steel']
+302,303.0,1.0,Patinaraja,['Steel']
+303,304.0,2.0,Baldorfish,"['Water', 'Poison']"
+304,305.0,2.0,Quabbel,"['Water', 'Ghost']"
+305,306.0,2.0,Apoquallyp,"['Water', 'Ghost']"
+306,307.0,2.0,Garstella,"['Poison', 'Water']"
+307,308.0,2.0,Aggrostella,"['Poison', 'Water']"
+308,309.0,2.0,Urgl,"['Flying', 'Water']"
+309,310.0,2.0,Toxel,"['Electric', 'Poison']"
+310,311.0,2.0,Riffex,"['Electric', 'Poison']"
+311,312.0,1.0,Salanga,['Ground']
+312,313.0,1.0,Sanaconda,['Ground']
+313,314.0,1.0,Hippopotas,['Ground']
+314,315.0,1.0,Hippoterus,['Ground']
+315,316.0,2.0,Fermicula,"['Bug', 'Steel']"
+316,317.0,1.0,Furnifraß,['Fire']
+317,318.0,2.0,Eguana,"['Electric', 'Normal']"
+318,319.0,2.0,Elezard,"['Electric', 'Normal']"
+319,320.0,2.0,Resladero,"['Fight', 'Flying']"
+320,321.0,1.0,Knacklion,['Ground']
+321,322.0,2.0,Vibrava,"['Ground', 'Dragon']"
+322,323.0,2.0,Libelldra,"['Ground', 'Dragon']"
+323,324.0,1.0,Milza,['Dragon']
+324,325.0,1.0,Sharfax,['Dragon']
+325,326.0,1.0,Maxax,['Dragon']
+326,327.0,3.0,Makabaja(Galar-Form),"['Ghost', 'Ground', 'Ghost']"
+327,328.0,2.0,Oghnatoll,"['Ground', 'Ghost']"
+328,329.0,1.0,Echnatoll,['Ghost']
+329,330.0,2.0,Gramokles,"['Steel', 'Ghost']"
+330,331.0,2.0,Duokles,"['Steel', 'Ghost']"
+331,332.0,2.0,Durengard,"['Steel', 'Ghost']"
+332,333.0,2.0,Ponita(Galar-Form),"['Fire', 'Psychic']"
+333,334.0,3.0,Gallopa(Galar-Form),"['Fire', 'Psychic', 'Fairy']"
+334,335.0,1.0,Fatalitee,['Ghost']
+335,336.0,1.0,Mortipot,['Ghost']
+336,337.0,2.0,Servol,"['Psychic', 'Normal']"
+337,338.0,2.0,Paragoni,"['Ghost', 'Grass']"
+338,339.0,2.0,Trombork,"['Ghost', 'Grass']"
+339,340.0,2.0,Bubungus,"['Grass', 'Fairy']"
+340,341.0,2.0,Lamellux,"['Grass', 'Fairy']"
+341,342.0,2.0,Kommandutan,"['Normal', 'Psychic']"
+342,343.0,1.0,Quartermak,['Fight']
+343,344.0,2.0,Morpeko,"['Electric', 'Dark']"
+344,345.0,1.0,Legios,['Fight']
+345,346.0,2.0,Sen-Long,"['Normal', 'Dragon']"
+346,347.0,2.0,Tortunator,"['Fire', 'Dragon']"
+347,348.0,2.0,Togedemaru,"['Electric', 'Steel']"
+348,349.0,2.0,Snomnom,"['Ice', 'Bug']"
+349,350.0,2.0,Mottineva,"['Ice', 'Bug']"
+350,351.0,1.0,Klopptopus,['Fight']
+351,352.0,1.0,Kaocto,['Fight']
+352,353.0,1.0,Britzigel,['Electric']
+353,354.0,2.0,Mantirps,"['Water', 'Flying']"
+354,355.0,2.0,Mantax,"['Water', 'Flying']"
+355,356.0,1.0,Wailmer,['Water']
+356,357.0,1.0,Wailord,['Water']
+357,358.0,1.0,Arktip,['Ice']
+358,359.0,1.0,Arktilas,['Ice']
+359,360.0,2.0,Moruda,"['Ghost', 'Grass']"
+360,361.0,2.0,Lapras,"['Water', 'Ice']"
+361,362.0,2.0,Lunastein,"['Rock', 'Psychic']"
+362,363.0,2.0,Sonnfel,"['Rock', 'Psychic']"
+363,364.0,2.0,Pantimimi,"['Psychic', 'Fairy']"
+364,365.0,4.0,Pantimos(Galar-Form),"['Psychic', 'Fairy', 'Ice', 'Psychic']"
+365,366.0,2.0,Pantifrost,"['Ice', 'Psychic']"
+366,367.0,2.0,Flampion(Galar-Form),"['Fire', 'Ice']"
+367,368.0,6.0,Flampivian(Galar-Form)(Trance-Modus)(Galar-Form),"['Fire', 'Ice', 'Fire', 'Psychic', 'Ice', 'Fire']"
+368,369.0,1.0,Humanolith,['Rock']
+369,370.0,1.0,Kubuin,['Ice']
+370,371.0,2.0,Duraludon,"['Steel', 'Dragon']"
+371,372.0,2.0,Rotom,"['Electric', 'Ghost']"
+372,373.0,1.0,Ditto,['Normal']
+373,374.0,2.0,Lectragon,"['Electric', 'Dragon']"
+374,375.0,2.0,Lecryodon,"['Electric', 'Ice']"
+375,376.0,2.0,Pescragon,"['Water', 'Dragon']"
+376,377.0,2.0,Pescryodon,"['Water', 'Ice']"
+377,378.0,1.0,Glumanda,['Fire']
+378,379.0,1.0,Glutexo,['Fire']
+379,380.0,2.0,Glurak,"['Fire', 'Flying']"
+380,381.0,1.0,Typ:Null,['Normal']
+381,382.0,1.0,Amigento,['Normal']
+382,383.0,2.0,Larvitar,"['Rock', 'Ground']"
+383,384.0,2.0,Pupitar,"['Rock', 'Ground']"
+384,385.0,2.0,Despotar,"['Rock', 'Dark']"
+385,386.0,2.0,Kapuno,"['Dark', 'Dragon']"
+386,387.0,2.0,Duodino,"['Dark', 'Dragon']"
+387,388.0,2.0,Trikephalo,"['Dark', 'Dragon']"
+388,389.0,1.0,Viscora,['Dragon']
+389,390.0,1.0,Viscargot,['Dragon']
+390,391.0,1.0,Viscogon,['Dragon']
+391,392.0,1.0,Miniras,['Dragon']
+392,393.0,2.0,Mediras,"['Dragon', 'Fight']"
+393,394.0,2.0,Grandiras,"['Dragon', 'Fight']"
+394,395.0,2.0,Grolldra,"['Dragon', 'Ghost']"
+395,396.0,2.0,Phandra,"['Dragon', 'Ghost']"
+396,397.0,2.0,Katapuldra,"['Dragon', 'Ghost']"
+397,398.0,1.0,Zacian,['Fairy']
+398,399.0,1.0,Zamazenta,['Fight']
+399,400.0,2.0,Endynalos,"['Poison', 'Dragon']"
