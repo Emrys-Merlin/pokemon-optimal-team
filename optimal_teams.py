@@ -51,6 +51,36 @@ def are_optimal_teams(attribute_table, teams):
 
     return res
 
+def doublets_for_team(teams, pd_summary):
+    '''Find pokemons with two types that fit into specified (optimal) teams
+
+    :name teams: The teams for which you want to find doublets
+    :name pd_summary: A pokedex summary containing Pokemons with the types and so forth (what comes out of the scraper script for example)
+    :return: Pandas Dataframe containing the Pokemon and for which team they can be used (might contain doubles)
+    '''
+
+    res = pd.DataFrame()
+
+    doublets_pd = pd_summary[pd_summary.n_type == 2]
+
+    needed_doublets = pd.DataFrame(columns = ['type1', 'type2', 'teams'])
+    for i, team in teams.iterrows():
+        for doublet in combinations(team, 2):
+            t0 = min(doublet[0], doublet[1])
+            t1 = max(doublet[0], doublet[1])
+            b0 = needed_doublets.type1 == t0
+            b1 = needed_doublets.type2 == t1
+            b = b0 & b1
+            if len(needed_doublets[b]) == 0:
+                needed_doublets = needed_doublets.append({'type1': t0, 'type2': t1, 'teams': [i]}, ignore_index=True)
+            else:
+                idx = b.idxmax()
+                needed_doublets.loc[idx, 'teams'] += [i]
+
+    return needed_doublets.merge(doublets_pd, on=['type1', 'type2']).drop('n_type', axis=1)
+
+
+
 if __name__ == '__main__':
     n_max = 7
 
@@ -63,3 +93,8 @@ if __name__ == '__main__':
     # res = pd.read_csv(f'optimal_teams_n{n_max:02d}.csv', index_col=0)
 
     print(are_optimal_teams(df, res))
+
+    summary_pd = pd.read_csv('./pokedex_summary.csv', index_col=0)
+    doublets = doublets_for_team(res, summary_pd)
+    print(doublets)
+    doublets.to_csv(f'./doublets_n{n_max:02d}.csv')
