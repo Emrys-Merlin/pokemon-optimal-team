@@ -6,8 +6,7 @@ I wanted to look for an 'optimal team' in Pokemon Sword/Shield. By optimal I mea
 ![Table with the 14 optimal teams consisting of 7 Pokemons](./optimal_teams.png?raw=true "Optimal Team")
 
 These are the type counts in the optimal teams
-
-![Bar plot with the count of each type in an optimal team](./count.png?raw=true "Type Count")
+![Bar plot with the count of each type in an optimal team](./count.png "Type Count")
 
 ## Getting started
 
