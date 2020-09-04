@@ -1,6 +1,6 @@
 # Pokemon Optimal Team
 
-I wanted to look for an 'optimal team' in Pokemon Sword/Shield. By optimal I mean a team such that for every opposing type there is a type in the team which is 'effective' against it (ie having a damage multiplier of 2). The surprising result for me (unless there are bugs, which might very well exist) is that we need at least 7 types in your team to achieve the goal. So you need at least one Pokemon with two types. 
+I wanted to look for an 'optimal team' in Pokemon Sword/Shield. By optimal I mean a team such that for every opposing type there is a type in the team which is 'effective' against it (i.e. having a damage multiplier of 2). The surprising result for me (unless there are bugs, which might very well exist) is that we need at least 7 types in your team to achieve the goal. So you need at least one Pokemon with two types. 
 
 ## Optimal teams
 ![Table with the 14 optimal teams consisting of 7 Pokemons](./optimal_teams.png?raw=true "Optimal Team")
